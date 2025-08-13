@@ -1,2 +1,0 @@
-C:/Users/bisha/Documents/Celeste-Clone/build/CMakeFiles/CMakeScratch/TryCompile-yag5fd/CMakeFiles/cmTC_84143.dir
-C:/Users/bisha/Documents/Celeste-Clone/build/CMakeFiles/CMakeScratch/TryCompile-yag5fd/CMakeFiles/ALL_BUILD.dir
